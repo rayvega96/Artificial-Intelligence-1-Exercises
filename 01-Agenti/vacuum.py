@@ -1,0 +1,3 @@
+
+
+# Vacuum class
